@@ -46,7 +46,7 @@ Notion是一个能让效率暴涨的生产力引擎，可以帮你书写文档�
 
 ## 致谢
 
-感谢Craig Hart发起的Nobelium项目
+感谢Craig Hart发起的Nobelium项目1111
 
 <table><tr align="left">
   <td align="center"><a href="https://github.com/craigary" title="Craig Hart"><img src="https://avatars.githubusercontent.com/u/10571717" width="64px;"alt="Craig Hart"/></a><br/><a href="https://github.com/craigary" title="Craig Hart">Craig Hart</a></td>
